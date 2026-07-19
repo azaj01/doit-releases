@@ -62,14 +62,6 @@ developer. No learning curve. Just space, given back to you.
 
 ---
 
-## About this repository
-
-This is the **public release repository** for DOIT. It hosts only the Windows
-installer artifact (`doit.exe`); the application source is maintained in a
-separate private repository. Each release is tagged `v<version>` and the latest
-stable build is always available at `releases/latest/download/doit.exe`.
-
 ## License
 
-Binary releases distributed here are subject to the DOIT license. DOIT is a
-client for the OpenClaw gateway.
+Binary releases distributed here are subject to the DOIT license.
